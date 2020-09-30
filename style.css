@@ -129,4 +129,6 @@ img {
   width: 200px; */
 }
 
-/* Image Crop */
+#crop-image, #download {
+  display: none;
+}
